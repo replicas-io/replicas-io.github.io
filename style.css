@@ -15,12 +15,14 @@ h3 {
 }
 
 .container {
-  font-size: 16px;
-  top: 40%;
-  left: 50%;
+  top: 20%;
+  font-size: 32px;
+  height: auto;
+  width: 99%;
   position: absolute;
   color: #FFFFFF;
   text-align: center;
+  vertical-align: middle;
 }
 
 .bar {
